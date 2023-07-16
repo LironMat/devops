@@ -8,7 +8,7 @@ int main()
 
 	for (i = 1; i <= 10; i++)
 	{
-		printf("Hello World %d\n", i * i);
+		printf("Hello World %d\n", i * i * i);
 	}
 
 	return 0;
