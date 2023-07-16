@@ -6,7 +6,7 @@ int main()
 
     for (i = 0; i < 5; i++)
     {
-        printf("my name is %s\n", "liron");
+        printf("%d: my name is %s\n", i, "liron");
     }
 
     return 0;
